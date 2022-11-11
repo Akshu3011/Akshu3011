@@ -29,7 +29,7 @@ I've 3+ years of professional experience as Frontend web developer with solid un
 💼 My [Portfolio](https://akshatak.netlify.app/) 
 
 ## Skills & Stats
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,jquery,insomnia)](https://skillicons.dev)
 
 ![handlebars.js](https://img.shields.io/badge/Handlebars.js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
