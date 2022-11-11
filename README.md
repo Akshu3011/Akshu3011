@@ -25,7 +25,7 @@ I've 3+ years of professional experience as Frontend web developer with solid un
 
 😄 My pronouns are she/her/hers
 
-💼 My [portfolio](https://akshatak.netlify.app/) 
+💼 My [Portfolio](https://akshatak.netlify.app/) 
 
 ## Skills & Stats
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,)](https://skillicons.dev)
