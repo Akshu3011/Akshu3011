@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Akshu3011/Akshu3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## React Frontend Developer
+
+### Hi there 👋
 I'm Creative Developer from Redmond WA, USA, working in web development and frontend technologies. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 I've 3+ years of professional experience as Frontend web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. I've worked with advanced JavaScript concepts like Closures, Promises, Prototype, map, reduce, filter and async/await.
