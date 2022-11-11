@@ -39,7 +39,7 @@ I've 3+ years of professional experience as Frontend web developer with solid un
 ![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kristensantee&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshu3011&theme=vue)
 ![](https://github-readme-stats.vercel.app/api?username=akshu3011)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshu3011)
 
