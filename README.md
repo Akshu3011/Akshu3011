@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
 
 ## React Frontend Developer
 I'm Creative Developer from Redmond WA, USA, working in web development and frontend technologies. I enjoy turning complex problems into simple, beautiful and intuitive designs.
