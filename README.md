@@ -25,11 +25,7 @@ I've 3+ years of professional experience as Frontend web developer with solid un
 
 😄 My pronouns are she/her/hers
 
-## Highlights
-|[Portfolio](https://akshatak.netlify.app/)|[Peas By Spring](https://peas-by-spring.herokuapp.com//)|[curARTe](https://kitanablade.github.io/curarte/)|
-|---|---|---|
-|![image](https://user-images.githubusercontent.com/107505837/184802607-3f95be01-2d70-4b01-819c-0d5d60af89a6.png)|![](https://github.com/jlee12297/Outbound-Gear-Exchange/raw/dev/images/Screenshot.png)|![](https://github.com/kitanablade/curarte/raw/dev/assets/images/Screenshot.png)|
-|Personal portfolio of both individual and collaborative projects. Portfolio features brief bio, contact information, and links to each project directly.|Outdoor gear marketplace & winner of Best Presentation. Served as Project Manager and full stack dev.|Artwork research site featuring third-party API fetches & winner of Best UX/UI. Served as Project Manager and front end dev.|
+💼 My [portfolio](https://akshatak.netlify.app/) 
 
 ## Skills & Stats
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,)](https://skillicons.dev)
