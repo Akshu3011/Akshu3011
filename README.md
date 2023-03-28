@@ -32,6 +32,8 @@ If you're looking for a Full Stack Developer who can bring a wealth of experienc
 
 💼 My [Portfolio](https://akshatak.netlify.app/) 
 
+📃 My [Resume](https://www.dropbox.com/s/x5y10sxknbq57ih/Akshata%20Kumbhar.pdf?dl=0)
+
 ## Skills & Stats
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,github,heroku,git,linkedin,mongodb,mysql,nodejs,vscode,react,jquery,insomnia)](https://skillicons.dev)
 
