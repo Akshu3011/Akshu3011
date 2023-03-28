@@ -18,9 +18,13 @@ Here are some ideas to get you started:
 ## React Frontend Developer
 
 ### Hi there 👋
-I'm Creative Developer from Redmond WA, USA, working in web development and frontend technologies. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+As a Full Stack Developer with 5 years of experience in React and Node.js, I've developed a deep understanding of the latest web technologies and trends. My passion lies in building scalable, efficient, and robust web applications that meet business needs while providing an excellent user experience.
 
-I've 3+ years of professional experience as Frontend web developer with solid understanding of front-end technologies, MVC frameworks, Restful web services and Data Base designing. I've worked with advanced JavaScript concepts like Closures, Promises, Prototype, map, reduce, filter and async/await.
+Throughout my career, I've worked on a variety of projects, from small startups to large enterprise solutions. I pride myself on my ability to collaborate effectively with cross-functional teams, communicate complex technical concepts in a clear and concise manner, and adapt quickly to new technologies and frameworks.
+
+My expertise in React and Node.js enables me to design and develop end-to-end web applications, including front-end user interfaces, back-end APIs, and database management. Additionally, I'm well-versed in agile development methodologies and continuous integration/continuous deployment (CI/CD) pipelines.
+
+If you're looking for a Full Stack Developer who can bring a wealth of experience, technical skills, and a strong work ethic to your team, please don't hesitate to connect with me.
 
 📫 You can reach me directly at akshatakumb@gmail.com
 
