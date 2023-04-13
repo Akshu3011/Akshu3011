@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## React Frontend Developer
+## Full Stack Developer
 
 ### Hi there 👋
 As a Full Stack Developer with 5 years of experience in React and Node.js, I've developed a deep understanding of the latest web technologies and trends. My passion lies in building scalable, efficient, and robust web applications that meet business needs while providing an excellent user experience.
